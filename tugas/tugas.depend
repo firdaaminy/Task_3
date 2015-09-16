@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1442385590 source:d:\kuliah\semester 3\algoritma struktur data\program mata kuliah\tugas\main.cpp
+	<iostream>
+	"matakuliah1.h"
+
+1442417111 d:\kuliah\semester 3\algoritma struktur data\program mata kuliah\tugas\matakuliah1.h
+	<iostream>
+
+1442417128 source:d:\kuliah\semester 3\algoritma struktur data\program mata kuliah\tugas\matakuliah1.cpp
+	<iostream>
+	"matakuliah1.h"
+
